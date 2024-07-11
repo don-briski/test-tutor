@@ -1,0 +1,14 @@
+/Users/mac/dotnet/GitTut/bin/Debug/net8.0/GitTut
+/Users/mac/dotnet/GitTut/bin/Debug/net8.0/GitTut.deps.json
+/Users/mac/dotnet/GitTut/bin/Debug/net8.0/GitTut.runtimeconfig.json
+/Users/mac/dotnet/GitTut/bin/Debug/net8.0/GitTut.dll
+/Users/mac/dotnet/GitTut/bin/Debug/net8.0/GitTut.pdb
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/GitTut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/GitTut.AssemblyInfoInputs.cache
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/GitTut.AssemblyInfo.cs
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/GitTut.csproj.CoreCompileInputs.cache
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/GitTut.dll
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/refint/GitTut.dll
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/GitTut.pdb
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/GitTut.genruntimeconfig.cache
+/Users/mac/dotnet/GitTut/obj/Debug/net8.0/ref/GitTut.dll
