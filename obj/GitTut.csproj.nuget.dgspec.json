@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/dotnet/GitTut/GitTut.csproj": {}
+    "/Users/mac/Desktop/test-tutor/GitTut.csproj": {}
   },
   "projects": {
-    "/Users/mac/dotnet/GitTut/GitTut.csproj": {
+    "/Users/mac/Desktop/test-tutor/GitTut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/dotnet/GitTut/GitTut.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/test-tutor/GitTut.csproj",
         "projectName": "GitTut",
-        "projectPath": "/Users/mac/dotnet/GitTut/GitTut.csproj",
+        "projectPath": "/Users/mac/Desktop/test-tutor/GitTut.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/dotnet/GitTut/obj/",
+        "outputPath": "/Users/mac/Desktop/test-tutor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VQkgBeTZPFKMEBIPhO+cs6C5ChBFO6OXLsxIiJdR+aoNiQIwImdvhsXefJvjsNzeiMDJuETXU+abPQh1fwd68Q==",
+  "dgSpecHash": "5nz7p/kYoNsw5Wsqt2QPeJ/TWBhNxXfC2xIbhCmx4LCp3xB8QCfufxD2L2UGyLNzPPcVl8uvEOoE44bzmZIRLQ==",
   "success": true,
-  "projectFilePath": "/Users/mac/dotnet/GitTut/GitTut.csproj",
+  "projectFilePath": "/Users/mac/Desktop/test-tutor/GitTut.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
